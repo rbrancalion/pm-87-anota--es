@@ -4,3 +4,5 @@ Caraca
 
 Tic...Tac...
 
+http://www.vidageek.net/2009/07/20/como-exibir-branch-atual-do-git/
+
